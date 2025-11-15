@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey, I'm Talal
+# 👋 Hey, I'm Talal
 
 **AI Engineer** | **Founder @ Intgr8AI** | **MSU Computer Engineer**
 
@@ -64,8 +64,8 @@ Cloud & Backend:
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkkalkhaled&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae" alt="Activity Graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkkalkhaled&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae" alt="Activity Graph" height="165" />
 </div>
 
 <br/>
