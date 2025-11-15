@@ -1,4 +1,4 @@
-## Hey, I'm Talal
+<h2 align="center">Hey, I'm Talal </h2>
 
 **AI Engineer | Founder @ Intgr8AI | MSU Computer Engineering**
 
