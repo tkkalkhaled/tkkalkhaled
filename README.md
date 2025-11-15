@@ -1,22 +1,22 @@
-## Hey, I'm Talal 👋
+## Hey, I'm Talal
 
 **AI Engineer | Founder @ Intgr8AI | MSU Computer Engineering**
 
 I build AI-powered applications, full-stack systems, and production-grade integrations.
 
-- 🤖 LLMs, AI agents, OCR, embeddings, vector DBs
-- 🏗 Building **Intgr8AI** — real AI tools for creators & businesses
-- 📱 Apps deployed on Web, iOS, and Android
-- 🔬 Experience with PyTorch, TensorFlow, and custom model training
-- ☁️ Firebase / Supabase / Vercel / Netlify / AWS
+- LLMs, AI agents, OCR, embeddings, vector DBs
+- Building **Intgr8AI** — real AI tools for creators & businesses
+- Apps deployed on Web, iOS, and Android
+- Experience with PyTorch, TensorFlow, and custom model training
+- Firebase / Supabase / Vercel / Netlify / AWS
 
 ---
 
 ### 🔗 My Links
 
-🌍 Portfolio: **https://talkhaled.com**  
-🧠 Intgr8AI: **https://intgr8ai.com**  
-💼 LinkedIn: **https://linkedin.com/in/talalalkhaled**
+Portfolio: **https://talkhaled.com**  
+Intgr8AI: **https://intgr8ai.com**  
+LinkedIn: **https://linkedin.com/in/talalalkhaled**
 
 ---
 
