@@ -11,11 +11,11 @@ Building AI-powered applications, full-stack systems, and production-grade integ
 ### 🔗 Connect With Me
 
 <a href="https://talkhaled.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://intgr8ai.com">
-  <img src="https://img.shields.io/badge/Intgr8AI-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Intgr8AI"/>
+  <img src="https://img.shields.io/badge/Intgr8AI-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Intgr8AI"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/talalalkhaled">
