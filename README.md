@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Talal </h2>
 
-<h2 align="center">AI Engineer | Founder @ Intgr8AI | MSU Computer Engineering<h2 align="center">
+<h2 align="center">AI Engineer | Founder @ Intgr8AI | MSU Computer Engineering</h2>
 
 I build AI-powered applications, full-stack systems, and production-grade integrations.
 
