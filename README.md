@@ -2,7 +2,7 @@
 
 <h2>Hey, I'm Talal </h2>
 
-AI Engineer • Founder @ Intgr8AI • MSU Computer Engineering
+AI Engineer | Founder @ Intgr8AI | MSU Computer Engineer
 
 </div>
 I build AI-powered applications, full-stack systems, and production-grade integrations.
