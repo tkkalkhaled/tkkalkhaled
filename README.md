@@ -28,11 +28,6 @@ LinkedIn: **https://linkedin.com/in/talalalkhaled**
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true" />
 
 
-**This week I spent my time on:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ### ⚙️ Tech Stack
