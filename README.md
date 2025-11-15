@@ -22,8 +22,6 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 ### 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true" />
 
 ---
