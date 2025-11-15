@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Talal
+#  Hey, I'm Talal
 
 **AI Engineer** | **Founder @ Intgr8AI** | **MSU Computer Engineer**
 
@@ -26,7 +26,7 @@ Building AI-powered applications, full-stack systems, and production-grade integ
 
 <br/>
 
-## 🚀 What I Do
+##  What I Do
 
 ```yaml
 AI & ML:
