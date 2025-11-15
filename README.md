@@ -19,7 +19,7 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 <div align="center">
 
-[<img src="https://talkhaled.com/favicon.ico" width="40" />](https://talkhaled.com)
+[<img src="https://talkhaled.com/icon.png" width="40" />](https://talkhaled.com)
 &nbsp;&nbsp;
 [<img src="https://intgr8ai.com/Logo.webp" height="55" />](https://intgr8ai.com)
 &nbsp;&nbsp;
