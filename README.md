@@ -18,11 +18,10 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 ### 🔗 My Links
 
 <div align="center">
-My Portfolio:
+
 [<img src="https://talkhaled.com/favicon.ico" width="40" />](https://talkhaled.com)
 &nbsp;&nbsp;
-My Company:
-[<img src="https://intgr8ai.com/FullLogo.webp" height="55" />](https://intgr8ai.com)
+[<img src="https://intgr8ai.com/Logo.webp" height="55" />](https://intgr8ai.com)
 &nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />](https://linkedin.com/in/talalalkhaled)
 
