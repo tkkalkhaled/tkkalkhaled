@@ -1,6 +1,6 @@
 <div align="center">
   
-#  Hey, I'm Talal
+# Hey, I'm Talal
 
 **AI Engineer** | **Founder @ Intgr8AI** | **MSU Computer Engineer**
 
@@ -26,7 +26,7 @@ Building AI-powered applications, full-stack systems, and production-grade integ
 
 <br/>
 
-##  What I Do
+## 🚀 What I Do
 
 ```yaml
 AI & ML:
@@ -60,12 +60,12 @@ Cloud & Backend:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkkalkhaled&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkkalkhaled&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="165" />
 </div>
 
 <br/>
