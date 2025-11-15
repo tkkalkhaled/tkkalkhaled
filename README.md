@@ -1,7 +1,10 @@
-<h2 align="center">Hey, I'm Talal </h2>
+<div align="center">
 
-<h2 align="center">AI Engineer | Founder @ Intgr8AI | MSU Computer Engineering</h2>
+<h2>Hey, I'm Talal </h2>
 
+AI Engineer • Founder @ Intgr8AI • MSU Computer Engineering
+
+</div>
 I build AI-powered applications, full-stack systems, and production-grade integrations.
 
 - LLMs, AI agents, OCR, embeddings, vector DBs
