@@ -60,13 +60,7 @@ Cloud & Backend:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkkalkhaled&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae" alt="Activity Graph" height="165" />
-</div>de_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae" alt="Activity Graph" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tkkalkhaled&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=bf91f3&point=38bdae" alt="Activity Graph" />
 </div>
 
 <br/>
