@@ -39,20 +39,4 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 ---
 
-### 🏆 Pinned Projects
-
-#### NOTEorious™
-AI-powered note-taking tool with OCR, GPT analysis, and dynamic templates  
-**Tech:** Flutter, Firebase, OpenAI, WebView
-
-#### Isn't It LIFELY™
-AI template generator using dynamic HTML and WebView  
-**Tech:** Flutter, Firebase, GPT-4, custom styling logic
-
-#### AI Price Tracker
-Real-time scraping + Google Sheets sync  
-**Tech:** Node.js, Puppeteer, Cloud Functions
-
----
-
 > 💬 *"Real AI is built, not talked about."*  
