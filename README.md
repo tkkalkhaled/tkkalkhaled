@@ -15,7 +15,7 @@ Building AI-powered applications, full-stack systems, and production-grade integ
 </a>
 &nbsp;&nbsp;
 <a href="https://intgr8ai.com">
-  <img src="https://img.shields.io/badge/Intgr8AI-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Intgr8AI"/>
+  <img src="https://img.shields.io/badge/Intgr8AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Intgr8AI"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/talalalkhaled">
