@@ -19,18 +19,22 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 <div align="center">
 
-### 🌐 Portfolio  
-[<img src="https://talkhaled.com/icon.png" height="60" />](https://talkhaled.com)
+<a href="https://talkhaled.com">
+  <img src="https://talkhaled.com/icon.png" height="60" /><br>
+  <sub><b>Portfolio</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
----
+<a href="https://intgr8ai.com">
+  <img src="https://intgr8ai.com/Logo.webp" height="60" /><br>
+  <sub><b>Intgr8AI</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🧠 Intgr8AI  
-[<img src="https://intgr8ai.com/Logo.webp" height="60" />](https://intgr8ai.com)
-
----
-
-### 💼 LinkedIn  
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="60" />](https://linkedin.com/in/talalalkhaled)
+<a href="https://linkedin.com/in/talalalkhaled">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="60" /><br>
+  <sub><b>LinkedIn</b></sub>
+</a>
 
 </div>
 
