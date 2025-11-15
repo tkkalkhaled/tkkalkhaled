@@ -18,7 +18,7 @@ Building AI-powered applications, full-stack systems, and production-grade integ
   <img src="https://img.shields.io/badge/Intgr8AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Intgr8AI"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/talalalkhaled">
+<a href="https://linkedin.com/in/talkhaled">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
