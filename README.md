@@ -1,66 +1,112 @@
 <div align="center">
+  
+# 👋 Hey, I'm Talal
 
-<h2>Hey, I'm Talal </h2>
+**AI Engineer** | **Founder @ Intgr8AI** | **MSU Computer Engineer**
 
-AI Engineer | Founder @ Intgr8AI | MSU Computer Engineer
+Building AI-powered applications, full-stack systems, and production-grade integrations
+
+<br/>
+
+### 🔗 Connect With Me
+
+<a href="https://talkhaled.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://intgr8ai.com">
+  <img src="https://img.shields.io/badge/Intgr8AI-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Intgr8AI"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/talalalkhaled">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
-I build AI-powered applications, full-stack systems, and production-grade integrations.
 
-- LLMs, AI agents, OCR, embeddings, vector DBs
-- Building **Intgr8AI** — real AI tools for creators & businesses
-- Apps deployed on Web, iOS, and Android
-- Experience with PyTorch, TensorFlow, and custom model training
-- Firebase / Supabase / Vercel / Netlify / AWS
+<br/>
 
----
+## 🚀 What I Do
 
-### 🔗 My Links
-**Portfolio:** <a href="https://talkhaled.com"><img src="https://talkhaled.com/icon.png" height="28"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**Intgr8AI:** <a href="https://intgr8ai.com"><img src="https://intgr8ai.com/Logo.webp" height="28"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-**LinkedIn:** <a href="https://linkedin.com/in/talalalkhaled"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28"/></a>
+```yaml
+AI & ML:
+  - LLMs, AI agents, RAG systems
+  - OCR, embeddings, vector databases
+  - PyTorch, TensorFlow, custom model training
 
----
+Full-Stack Development:
+  - React, Node.js, Express, Flutter
+  - Web, iOS, and Android deployment
+  - Real-time applications & APIs
 
-### 📊 GitHub Stats
+Cloud & Backend:
+  - Firebase, Supabase, AWS
+  - PostgreSQL, MongoDB
+  - Vercel, Netlify deployment
+```
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true" />
+## 🏢 Currently Building
+
+**[Intgr8AI](https://intgr8ai.com)** — Real AI tools for creators & businesses
 
 </div>
 
----
+<br/>
 
-### ⚙️ Tech Stack
+## 📊 GitHub Activity
 
-### Languages
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkkalkhaled&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=tkkalkhaled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkkalkhaled&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### 🎨 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Databases & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+### ☁️ Cloud & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-> 💬 *"Real AI is built, not talked about."*  
+<div align="center">
+  
+### 💭 *"Real AI is built, not talked about."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=tkkalkhaled&color=blueviolet&style=for-the-badge)
+
+</div>
