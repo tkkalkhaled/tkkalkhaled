@@ -17,10 +17,15 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 ### 🔗 My Links
 
-Portfolio: **https://talkhaled.com**  
-Intgr8AI: **https://intgr8ai.com**  
-LinkedIn: **https://linkedin.com/in/talalalkhaled**
+<div align="center">
 
+[<img src="https://talkhaled.com/favicon.ico" width="40" />](https://talkhaled.com)
+&nbsp;&nbsp;
+[<img src="https://intgr8ai.com/favicon.ico" width="40" />](https://intgr8ai.com)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />](https://linkedin.com/in/talalalkhaled)
+
+</div>
 ---
 
 ### 📊 GitHub Stats
