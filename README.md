@@ -17,7 +17,7 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 
 ### 🔗 My Links
 
-<div align="center">
+
 
 **Portfolio:**  
 <a href="https://talkhaled.com" target="_blank">
@@ -38,7 +38,7 @@ I build AI-powered applications, full-stack systems, and production-grade integr
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" />
 </a>
 
-</div>
+
 
 ---
 
