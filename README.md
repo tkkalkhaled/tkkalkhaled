@@ -22,6 +22,7 @@ I build AI-powered applications, full-stack systems, and production-grade integr
 &nbsp;&nbsp;&nbsp;&nbsp;
 **LinkedIn:** <a href="https://linkedin.com/in/talalalkhaled"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28"/></a>
 
+---
 
 ### 📊 GitHub Stats
 <div align="center">
